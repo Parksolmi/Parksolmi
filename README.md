@@ -4,7 +4,7 @@ I am Solmi Park who is interested in developing software programs.
 If you want to contact me, please leave me a message.  
 Hope you have a good day!  
 
-## ✍WANT TO STUDY  
+## ✍STUDYING...  
 - Application(Android/IOS)
 - Game Engine : Unity
   
