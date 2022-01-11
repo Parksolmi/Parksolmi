@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Parksolmi/Parksolmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 I am Solmi Park who is interested in developing software programs.
 If you want to contact me, please leave me a message.
 Hope you have a good day!
@@ -17,4 +12,3 @@ Hope you have a good day!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
