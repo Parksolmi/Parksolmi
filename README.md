@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+I am Solmi Park who is interested in developing software programs.
+If you want to contact me, please leave me a message.
+Hope you have a good day!
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
