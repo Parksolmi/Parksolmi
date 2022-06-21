@@ -1,12 +1,8 @@
 ### Hi there 👋  
 
-I am Solmi Park who is interested in developing software programs from South Korea.  
-If you want to contact me, please leave me a message.  
-Hope you have a good day!  
-
 ## ✍STUDYING  
 - Application(Android/IOS)
-- Game Engine : Unity
+- React
   
 ## 🎈GOAL  
 - Develop my own application.
