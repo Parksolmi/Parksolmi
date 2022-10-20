@@ -1,5 +1,4 @@
-## Hi there!👋
-<a href="mailto:dosm0360@gmail.com"> <img src="https://img.shields.io/badge/dosm0360@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dosm0360@gmail.com"/> </a>
+## Hi there!👋 <a href="mailto:dosm0360@gmail.com"> <img src="https://img.shields.io/badge/dosm0360@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dosm0360@gmail.com"/> </a>
 
 ## ✍STUDYING  
 
