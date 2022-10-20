@@ -1,10 +1,8 @@
 ## Hi there!👋
-I am a junior developer who dreams of becoming a front-end developer.
+I am a junior developer who dreams of becoming a front-end developer.<br/>
 If you want to contact me, please contact me here 👉 <a href="mailto:dosm0360@gmail.com"> <img src="https://img.shields.io/badge/dosm0360@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dosm0360@gmail.com"/> </a>
 
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksolmi&show_icons=true&theme=radical)
-</p>
 
 ## Skills
 <p align="center">
