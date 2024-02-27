@@ -2,7 +2,7 @@
 I am a junior developer who dreams of becoming a front-end developer 👩‍💻 <br/>
 If you want to contact me, please contact me here 👉 <a href="mailto:dosm0360@gmail.com"> <img src="https://img.shields.io/badge/dosm0360@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dosm0360@gmail.com"/> </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksolmi&show_icons=true&theme=radical&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?align=center&username=parksolmi&show_icons=true&theme=radical&hide_rank=true)
 
 ## Skills💡
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <br/><br/>
