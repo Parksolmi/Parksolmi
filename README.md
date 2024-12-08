@@ -1,6 +1,8 @@
+## Welcome👋
+
 안녕하세요👩‍💻! <br/>
 고객의 니즈를 정확히 파악하여 편리하고 유용한 서비스를 개발하는 프론트엔드 개발자를 꿈꾸는 주니어 개발자입니다. <br/>
-항상 사용자 중심의 인터페이스와 더 나은 사용자 경험을 고민하며, 지속적으로 성장하고자 노력하고 있습니다. <br/>
+항상 사용자 중심의 인터페이스와 더 나은 사용자 경험을 고민하며, 지속적으로 성장하고자 노력하고 있습니다. <br/> <br/>
 Hello👩‍💻! <br/>
 I am a junior developer aspiring to become a front-end developer who creates convenient and useful services <br/>
 by understanding customer needs accurately. <br/>
@@ -11,6 +13,9 @@ I constantly strive to deliver user-centered interfaces and better user experien
 ## Contact📞
 <a href="mailto:dosm0360@gmail.com"> 
 <img src="https://img.shields.io/badge/dosm0360@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dosm0360@gmail.com"/> 
+</a>  
+<a href="https://sol-aftercoding.tistory.com/" target="_blank"> 
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/> 
 </a>
 
 ## Skills💡
