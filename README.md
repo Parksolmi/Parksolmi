@@ -13,7 +13,8 @@ I constantly strive to deliver user-centered interfaces and better user experien
 ## Contact📞
 <a href="mailto:dosm0360@gmail.com"> 
 <img src="https://img.shields.io/badge/dosm0360@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dosm0360@gmail.com"/> 
-</a>  
+</a>
+<br/>
 <!--
 <a href="https://sol-aftercoding.tistory.com/" target="_blank"> 
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/> 
