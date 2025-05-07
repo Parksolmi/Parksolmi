@@ -11,16 +11,13 @@ I constantly strive to deliver user-centered interfaces and better user experien
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?&username=parksolmi&show_icons=true&theme=radical&)
 
 ## Contact📞
-<a href="mailto:dosm0360@gmail.com"> 
-<img src="https://img.shields.io/badge/dosm0360@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dosm0360@gmail.com"/> 
+<a href="mailto:dosm0360@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-dosm0360@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
-<br/>
-<!--
-<a href="https://sol-aftercoding.tistory.com/" target="_blank"> 
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/> 
+<a href="https://sol-aftercoding.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/솔미의&nbsp;개발일지-Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
--->
-### 📘 [솔미의 개발일지 보러 가기](https://sol-aftercoding.tistory.com/)
+
 
 ## Skills💡
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <br/><br/>
